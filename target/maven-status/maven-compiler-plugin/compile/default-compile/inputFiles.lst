@@ -1,0 +1,7 @@
+/Users/mart/IdeaProjects/PREPPING FOR WORK/dev-spring-boot/08-spring-boot-spring-mvc-crud/01-thymeleaf-demo-employees-starter-list/src/main/java/com/luv2code/springboot/thymeleafdemo/ThymeleafdemoApplication.java
+/Users/mart/IdeaProjects/PREPPING FOR WORK/dev-spring-boot/08-spring-boot-spring-mvc-crud/01-thymeleaf-demo-employees-starter-list/src/main/java/com/luv2code/springboot/thymeleafdemo/controller/DemoController.java
+/Users/mart/IdeaProjects/PREPPING FOR WORK/dev-spring-boot/08-spring-boot-spring-mvc-crud/01-thymeleaf-demo-employees-starter-list/src/main/java/com/luv2code/springboot/thymeleafdemo/service/EmployeeServiceImpl.java
+/Users/mart/IdeaProjects/PREPPING FOR WORK/dev-spring-boot/08-spring-boot-spring-mvc-crud/01-thymeleaf-demo-employees-starter-list/src/main/java/com/luv2code/springboot/thymeleafdemo/service/EmployeeService.java
+/Users/mart/IdeaProjects/PREPPING FOR WORK/dev-spring-boot/08-spring-boot-spring-mvc-crud/01-thymeleaf-demo-employees-starter-list/src/main/java/com/luv2code/springboot/thymeleafdemo/entity/Employee.java
+/Users/mart/IdeaProjects/PREPPING FOR WORK/dev-spring-boot/08-spring-boot-spring-mvc-crud/01-thymeleaf-demo-employees-starter-list/src/main/java/com/luv2code/springboot/thymeleafdemo/dao/EmployeeRepository.java
+/Users/mart/IdeaProjects/PREPPING FOR WORK/dev-spring-boot/08-spring-boot-spring-mvc-crud/01-thymeleaf-demo-employees-starter-list/src/main/java/com/luv2code/springboot/thymeleafdemo/controller/EmployeeController.java
